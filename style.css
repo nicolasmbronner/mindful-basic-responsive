@@ -65,12 +65,12 @@ footer {
     }
 
     body {
-        
+        margin: 10px 5px 0 5px;
     }
 
     h1 {
         text-align: center;
-        font-size: 4rem;
+        font-size: 3rem;
     }
 
     .logo {
